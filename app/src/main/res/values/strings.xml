@@ -2,4 +2,23 @@
     <string name="app_name">HealthApp</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="planner_page_send">Planner Page</string>
+    <string name="save_plan">Save Plan</string>
+    <string name="enter_workout">Enter a workout</string>
+    <string name="workout_monday">Monday</string>
+    <string name="workout_tuesday">Tuesday</string>
+    <string name="workout_wednesday">Wednesday</string>
+    <string name="workout_thursday">Thursday</string>
+    <string name="workout_friday">Friday</string>
+    <string name="workout_saturdady">Saturday</string>
+    <string name="workout_sunday">Sunday</string>
+    <string-array name="workout_days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
 </resources>

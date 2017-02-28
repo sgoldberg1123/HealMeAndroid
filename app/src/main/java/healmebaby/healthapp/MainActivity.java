@@ -23,4 +23,10 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
+
+    /** go to the planner page */
+    public void plannerPage(View view) {
+        Intent planner_Intent = new Intent(this, PlannerActivity.class);
+        startActivity(planner_Intent);
+    }
 }
